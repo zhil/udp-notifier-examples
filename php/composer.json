@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zhil/udp-notifier": "*"
+    },
+    "minimum-stability": "dev"
+}
